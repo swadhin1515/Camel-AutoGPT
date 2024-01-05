@@ -1,7 +1,8 @@
 repo_name: swadhin1515/Camel-AutoGPT
 report_id: 19385ee920c93969cbed3a88e666a6ef
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T06:44:09+00:00'
+timestamp: '2024-01-05T08:59:02+00:00'
 requested_by: vadootvpeer
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/server/requirements.txt
   detection_source: server/requirements.txt
   last_updated_by: Anil-matcha
   last_updated_on: 2023-05-02 17:38:09.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -59,7 +64,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -73,7 +78,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -87,7 +92,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -99,6 +104,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -112,7 +118,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
-  detection_source_url: server/requirements.txt
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/server/requirements.txt
   detection_source: server/requirements.txt
   last_updated_by: Anil-matcha
   last_updated_on: 2023-05-02 17:38:09.000000000 Z
@@ -124,6 +130,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -133,6 +140,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/server/requirements.txt
   detection_source: server/requirements.txt
   last_updated_by: Anil-matcha
   last_updated_on: 2023-05-02 17:38:09.000000000 Z
@@ -144,6 +152,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -157,7 +166,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: server/requirements.txt
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/server/requirements.txt
   detection_source: server/requirements.txt
   last_updated_by: Anil-matcha
   last_updated_on: 2023-05-02 17:38:09.000000000 Z
@@ -171,7 +180,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -185,7 +194,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -200,7 +209,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -214,7 +223,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -228,7 +237,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -242,7 +251,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -256,7 +265,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -270,7 +279,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -284,7 +293,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
@@ -298,13 +307,13 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Anil-matcha
   last_updated_on: 2023-04-28 10:04:46.000000000 Z
 - name: pydantic
   description: Data validation and settings management using python 3.6 type hinting
-  package_url: https://pypi.org/pydantic
+  package_url: https://pypi.org/project/pydantic
   version: 1.10.7
   license: MIT
   open_source: true
@@ -312,13 +321,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20022/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
-  detection_source_url: server/requirements.txt
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/server/requirements.txt
   detection_source: server/requirements.txt
   last_updated_by: Anil-matcha
   last_updated_on: 2023-05-02 17:38:09.000000000 Z
 - name: yarl
   description: Yet another URL library
-  package_url: https://pypi.org/yarl
+  package_url: https://pypi.org/project/yarl
   version: 1.9.2
   license: Apache-2.0
   open_source: true
@@ -326,13 +335,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20083/default_d8789f2f1b5b4e9994bef68371453a20460b4d6e.png
-  detection_source_url: server/requirements.txt
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/server/requirements.txt
   detection_source: server/requirements.txt
   last_updated_by: Anil-matcha
   last_updated_on: 2023-05-02 17:38:09.000000000 Z
 - name: zipp
   description: Backport of pathlib-compatible object wrapper for zip files
-  package_url: https://pypi.org/zipp
+  package_url: https://pypi.org/project/zipp
   version: 3.15.0
   license: MIT
   open_source: true
@@ -340,7 +349,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20247/default_47b8ee8db82e43d9eef35923435bd8cc855f3a1b.png
-  detection_source_url: server/requirements.txt
+  detection_source_url: https://github.com/swadhin1515/Camel-AutoGPT/blob/main/server/requirements.txt
   detection_source: server/requirements.txt
   last_updated_by: Anil-matcha
   last_updated_on: 2023-05-02 17:38:09.000000000 Z
